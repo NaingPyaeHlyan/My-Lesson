@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLesson1.0</string>
+    <string name="btnSecond">Second Activity</string>
+</resources>
